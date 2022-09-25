@@ -17,9 +17,9 @@ if (4 == 9){
  
 // (num === 50) ? console.log('ok') : console.log('Error');
 
-const num = '50';
+const nums = '50';
 
-switch (num) {
+switch (nums) {
   case '49':
     console.log('Неверно');
     break;
